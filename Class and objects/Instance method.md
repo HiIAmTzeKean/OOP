@@ -1,5 +1,7 @@
 ---
-tags: 🌱
+tags:
+  - 🌱
+  - ComputerScience 
 alias: Non-static method
 date: 19--Aug--2022
 ---

@@ -1,5 +1,7 @@
 ---
-tags: 🌱
+tags:
+  - 🌱
+  - ComputerScience 
 alias: OOP
 date: 10--Aug--2022
 ---

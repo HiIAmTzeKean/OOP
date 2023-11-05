@@ -1,5 +1,6 @@
 ---
 tags:
+  - ComputerScience 
 alias: Encapsulate
 date: 01--Jul--2022
 ---
